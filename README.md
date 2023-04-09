@@ -1,2 +1,2 @@
 # Scripts
-Couple of Scripts (Python, GH) for various tests
+Couple of scripting examples (Python, GH) for various tests
